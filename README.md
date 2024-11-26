@@ -40,8 +40,6 @@ import {
 } from '@typescript-package/core';
 ```
 
-<br>
-
 ## GIT
 
 ### Commit
