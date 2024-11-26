@@ -1,12 +1,8 @@
-# typescript-package
-
-<a href="https://www.typescriptlang.org/">
+<!-- <a href="https://www.typescriptlang.org/">
   <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257106/file-type-typescript-official-icon-md.png" width="20%" />
-</a>
+</a> -->
 
-## core
-
-`typescript-package/core`
+## typescript-package/core
 
 Core package.
 
