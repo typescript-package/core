@@ -75,21 +75,21 @@ MIT © angular-package ([license][typescript-package-license])
 
 <!-- This package: typescript-package  -->
   <!-- GitHub: badges -->
-  [typescript-package-badge-issues]: https://img.shields.io/github/issues/angular-package/typescript-package
-  [typescript-package-badge-forks]: https://img.shields.io/github/forks/angular-package/typescript-package
-  [typescript-package-badge-stars]: https://img.shields.io/github/stars/angular-package/typescript-package
-  [typescript-package-badge-license]: https://img.shields.io/github/license/angular-package/typescript-package
+  [typescript-package-badge-issues]: https://img.shields.io/github/issues/typescript-package/core
+  [typescript-package-badge-forks]: https://img.shields.io/github/forks/typescript-package/core
+  [typescript-package-badge-stars]: https://img.shields.io/github/stars/typescript-package/core
+  [typescript-package-badge-license]: https://img.shields.io/github/license/typescript-package/core
   <!-- GitHub: badges links -->
-  [typescript-package-issues]: https://github.com/angular-package/typescript-package/issues
-  [typescript-package-forks]: https://github.com/angular-package/typescript-package/network
-  [typescript-package-license]: https://github.com/angular-package/typescript-package/blob/master/LICENSE
-  [typescript-package-stars]: https://github.com/angular-package/typescript-package/stargazers
+  [typescript-package-issues]: https://github.com/typescript-package/core/issues
+  [typescript-package-forks]: https://github.com/typescript-package/core/network
+  [typescript-package-license]: https://github.com/typescript-package/core/blob/master/LICENSE
+  [typescript-package-stars]: https://github.com/typescript-package/core/stargazers
 <!-- This package -->
 
 <!-- Package: typescript-package -->
   <!-- npm -->
-  [typescript-package-npm-badge-svg]: https://badge.fury.io/js/%40typescript-package%2Ftypescript-package.svg
-  [typescript-package-npm-badge]: https://badge.fury.io/js/%40typescript-package%2Ftypescript-package
+  [typescript-package-npm-badge-svg]: https://badge.fury.io/js/%40typescript-package%2Fcore.svg
+  [typescript-package-npm-badge]: https://badge.fury.io/js/%40typescript-package%2Fcore
 
 <!-- GIT -->
 [git-semver]: http://semver.org/
