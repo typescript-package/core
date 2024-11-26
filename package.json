@@ -9,7 +9,11 @@
     "registry": "https://registry.npmjs.org"
   },
   "peerDependencies": {},
-  "scripts": {},
+  "scripts": {
+    "prepublishOnly": "npm run pkg && npm run clean",
+    "pkg": "npm pkg delete dependencies",
+    "clean": "npm pkg delete scripts"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/typescript-package/core.git"
