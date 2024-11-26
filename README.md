@@ -8,10 +8,7 @@ Core package.
 
 <!-- npm badge -->
 [![npm version][typescript-package-npm-badge-svg]][typescript-package-npm-badge]
-<!-- GitHub badges -->
 [![GitHub issues][typescript-package-badge-issues]][typescript-package-issues]
-[![GitHub forks][typescript-package-badge-forks]][typescript-package-forks]
-[![GitHub stars][typescript-package-badge-stars]][typescript-package-stars]
 [![GitHub license][typescript-package-badge-license]][typescript-package-license]
 
 <br>
