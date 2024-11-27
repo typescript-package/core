@@ -1,5 +1,5 @@
 {
-  "name": "@testing-package/core",
+  "name": "@typescript-package/core",
   "version": "1.0.0",
   "author": "wwwdev.io <dev@wwwdev.io>",
   "description": "Core package.",
