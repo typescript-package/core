@@ -1,6 +1,10 @@
-<!-- <a href="https://www.typescriptlang.org/">
-  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257106/file-type-typescript-official-icon-md.png" width="20%" />
-</a> -->
+<a href="https://www.typescriptlang.org/">
+  <img
+    src="https://raw.githubusercontent.com/typescript-package/core/refs/heads/main/ts-package-barcode-logo-512.png"
+    width="20%"
+    title="@typescript-package/core"
+  />
+</a>
 
 ## typescript-package/core
 
