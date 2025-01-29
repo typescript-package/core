@@ -1,6 +1,6 @@
 {
   "name": "@typescript-package/core",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "wwwdev.io <dev@wwwdev.io>",
   "description": "A TypeScript library with features used across other `typescript-package` libraries.",
   "license": "MIT",
@@ -29,6 +29,10 @@
     {
       "type": "individual",
       "url": "https://checkout.revolut.com/pay/048b10a3-0e10-42c8-a917-e3e9cb4c8e29"
+    },
+    {
+      "type": "stripe",
+      "url": "https://donate.stripe.com/dR614hfDZcJE3wAcMM"
     }
   ],
   "sideEffects": false
