@@ -1,35 +1,37 @@
 <a href="https://www.typescriptlang.org/">
   <img
-    src="https://raw.githubusercontent.com/typescript-package/core/refs/heads/main/ts-package-barcode-logo-512.png"
-    width="20%"
+    src="https://avatars.githubusercontent.com/u/189666396?s=150&u=9d55b1eb4ce258974ead76bf07ccf49ef0eb0ea7&v=4"
     title="@typescript-package/core"
   />
 </a>
 
 ## typescript-package/core
 
-Core package.
-
 <!-- npm badge -->
 [![npm version][typescript-package-npm-badge-svg]][typescript-package-npm-badge]
 [![GitHub issues][typescript-package-badge-issues]][typescript-package-issues]
 [![GitHub license][typescript-package-badge-license]][typescript-package-license]
 
+A TypeScript library with features used across other `typescript-package` libraries.
+
 <br>
 
 ## Table of contents
 
-* [Installation](#installation)
-* [Api](#api)
-* [Git](#git)
-  * [Commit](#commit)
-  * [Versioning](#versioning)
-* [License](#license)
+- [Installation](#installation)
+- [Api](#api)
+- [Contributing](#contributing)
+- [Support](#support)
+- [Code of Conduct](#code-of-conduct)
+- [Git](#git)
+  - [Commit](#commit)
+  - [Versioning](#versioning)
+- [License](#license)
 
 ## Installation
 
 ```bash
-npm install @typescript-package/core
+npm install @typescript-package/core --save-peer
 ```
 
 ## Api
@@ -37,9 +39,29 @@ npm install @typescript-package/core
 ```typescript
 import {
   resultCallback,
-  typeOf
+  typeOf,
+  Value
 } from '@typescript-package/core';
 ```
+
+## Contributing
+
+Your contributions are valued! If you'd like to contribute, please feel free to submit a pull request. Help is always appreciated.
+
+## Support
+
+If you find this package useful and would like to support its and general development, you can contribute through one of the following payment methods. Your support helps maintain the packages and continue adding new.
+
+Support via:
+
+- [Stripe](https://donate.stripe.com/dR614hfDZcJE3wAcMM)
+- [Revolut](https://checkout.revolut.com/pay/048b10a3-0e10-42c8-a917-e3e9cb4c8e29)
+
+Thanks for your support!
+
+## Code of Conduct
+
+By participating in this project, you agree to follow **[Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)**.
 
 ## GIT
 
