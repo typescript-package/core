@@ -2,7 +2,7 @@
   "name": "@typescript-package/core",
   "version": "1.0.0",
   "author": "wwwdev.io <dev@wwwdev.io>",
-  "description": "Core package.",
+  "description": "A TypeScript library with features used across other `typescript-package` libraries.",
   "license": "MIT",
   "publishConfig": {
     "access": "public",
