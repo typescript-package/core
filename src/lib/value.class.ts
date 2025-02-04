@@ -7,6 +7,16 @@
  */
 export abstract class Value<Type> {
   /**
+   * @description Returns the `string` tag representation of the `Value` class when used in `Object.prototype.toString.call(instance)`.
+   * @public
+   * @readonly
+   * @type {string}
+   */
+  public get [Symbol.toStringTag]() {
+    return 'Value';
+  }
+
+  /**
    * @description Returns the privately stored value of generic type variable `Type`.
    * @public
    * @readonly
@@ -30,6 +40,16 @@ export abstract class Value<Type> {
    */
   constructor(value: Type) {
     this.#value = value;
+  }
+
+  /**
+   * @description Extracts the string tag of the current instance defined by the `Symbol.toStringTag`.
+   * @public
+   * @returns {string | undefined} The extracted class name, such as `'Value'`, or `undefined` if extraction fails.
+   */
+  public get tag(): string | undefined {
+    const tag = Object.prototype.toString.call(this).slice(8, -1);
+    return tag !== 'Object' ? tag : undefined;
   }
 
   /**
